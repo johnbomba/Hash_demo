@@ -5,7 +5,7 @@ import sys
 
 #usage sha_hasher.py <file>
 if len(sys.argv) != 2:
-    print("Usage: sha_hasher.py <file>")
+    print("Usage: sha_hasher.py <file.txt>")
 
     sys.exit(0)
 
